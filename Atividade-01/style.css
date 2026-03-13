@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center  ;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.Desligada{
+    width: 50%;
+    height: 10%;
+    float: left;
+}
+
+button{
+    margin-top: 1px;
+}
